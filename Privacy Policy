@@ -1,100 +1,74 @@
-# Privacy Policy for Study Lap
-
-**Last updated:** [01/05/2026]
+Privacy Policy for Study Lap
+Last updated: May 1, 2026
 
 Welcome to Study Lap. Your privacy is important to us. This Privacy Policy explains how we collect, use, and protect your information when you use our mobile application.
 
----
-
-## 1. Information We Collect
-
+1. Information We Collect
 We may collect the following types of information:
 
-### a. Personal Information
+a. Personal Information
+Email address (via Firebase Authentication)
 
-* Email address (via Firebase Authentication)
-* User account details
+User account details
 
-### b. Usage Data
+b. Usage Data
+App usage activity (features used, time spent)
 
-* App usage activity (features used, time spent)
-* Progress data (coins, XP, streaks, leaderboard)
+Progress data (coins, XP, streaks, leaderboard tracking)
 
-### c. Uploaded Content
+c. Uploaded Content
+Files such as PDFs uploaded for study summarization
 
-* Files such as PDFs uploaded for summarization
-* Messages sent in AI chat or guild chat
+Messages sent in AI chat or guild chat features
 
----
+2. How We Use Your Information
+We use the collected information to:
 
-## 2. How We Use Your Information
+Provide, run, and maintain core app functionality
 
-We use your information to:
+Authenticate users securely and prevent unauthorized access
 
-* Provide and maintain app functionality
-* Authenticate users securely
-* Improve app features and performance
-* Personalize user experience
-* Enable AI-based responses and learning features
-* Manage leaderboards, rewards, and guild systems
+Improve app features, stability, and performance
 
----
+Personalize your overall learning experience
 
-## 3. Third-Party Services
+Enable AI-based responses, flashcard generations, and learning tools
 
-We use trusted third-party services:
+Manage leaderboards, user rewards, and guild group systems
 
-* Firebase Authentication (for login and identity)
-* AI services (such as Google Gemini API for responses)
+3. Third-Party Services
+We use trusted third-party services to help power Study Lap:
 
-These services may collect and process data according to their own privacy policies.
+Firebase Authentication: For secure user sign-in and identity verification.
 
----
+AI Processing Services: Such as the Google Gemini API to generate smart flashcards and chat responses.
 
-## 4. Data Storage and Security
+These services may collect and process data according to their own independent privacy policies.
 
-We take reasonable steps to protect your data.
-However, no method of transmission over the internet is 100% secure.
+4. Data Storage and Security
+We take reasonable, industry-standard steps to protect your data. We store your data securely using trusted cloud infrastructure. However, please remember that no method of transmission over the internet or method of electronic storage is 100% secure.
 
-We store data securely using trusted cloud services.
+5. User Data Control & Deletion
+You have complete control over your data. You have the right to:
 
----
+Access the personal data we hold about you.
 
-## 5. User Data Control
+Request the permanent deletion of your account and all associated data.
 
-You have the right to:
+Stop using the mobile application at any time.
 
-* Access your data
-* Request deletion of your account
-* Stop using the app at any time
+To request the deletion of your account and data, please email us directly at: boyatilak143@gmail.com. We will process your deletion request within standard legal timelines.
 
-To request data deletion, contact us at:
-boyatilak143@gmail.com
+6. Children’s Privacy
+Study Lap is not intended for children under the age of 13. We do not knowingly collect personal data from children under 13. If we discover that a child under 13 has provided us with personal data, we will delete it from our servers immediately.
 
----
+7. Changes to This Policy
+We may update our Privacy Policy from time to time. Any updates or changes will become effective immediately once posted directly on this web page. We encourage you to review this page periodically for any modifications.
 
-## 6. Children’s Privacy
+8. Contact Us
+If you have any questions, concerns, or feedback regarding this Privacy Policy, please feel free to reach out to us at:
 
-Study Lap is not intended for children under 13.
-We do not knowingly collect personal data from children under 13.
+Email: boyatilak143@gmail.com
 
----
-
-## 7. Changes to This Policy
-
-We may update this Privacy Policy from time to time.
-Any changes will be posted on this page.
-
----
-
-## 8. Contact Us
-
-If you have any questions, contact us at:
-
-boyatilak143@gmail.com
-
----
-
-## 9. Consent
-
-By using Study Lap, you agree to this Privacy Policy.
+9. Consent
+By downloading, installing, or using the Study Lap mobile application, you explicitly signify your agreement to the terms outlined in this Privacy Policy.
